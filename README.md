@@ -1,27 +1,14 @@
-     :                                 :
-   :                                   :
-   :  RRVIttIti+==iiii++iii++=;:,       :
-   : IBMMMMWWWWMMMMMBXXVVYYIi=;:,        :
-   : tBBMMMWWWMMMMMMBXXXVYIti;;;:,,      :
-   t YXIXBMMWMMBMBBRXVIi+==;::;::::       ,
-  ;t IVYt+=+iIIVMBYi=:,,,=i+=;:::::,      ;;
-  YX=YVIt+=,,:=VWBt;::::=,,:::;;;:;:     ;;;
-  VMiXRttItIVRBBWRi:.tXXVVYItiIi==;:   ;;;;
-  =XIBWMMMBBBMRMBXi;,tXXRRXXXVYYt+;;: ;;;;;
-   =iBWWMMBBMBBWBY;;;,YXRRRRXXVIi;;;:;,;;;=
-    iXMMMMMWWBMWMY+;=+IXRRXXVYIi;:;;:,,;;=
-    iBRBBMMMMYYXV+:,:;+XRXXVIt+;;:;++::;;;
-    =MRRRBMMBBYtt;::::;+VXVIi=;;;:;=+;;;;=
-     XBRBBBBBMMBRRVItttYYYYt=;;;;;;==:;=
-      VRRRRRBRRRRXRVYYIttiti=::;:::=;=
-       YRRRRXXVIIYIiitt+++ii=:;:::;==
-       +XRRXIIIIYVVI;i+=;=tt=;::::;:;
-        tRRXXVYti++==;;;=iYt;:::::,;;
-         IXRRXVVVVYYItiitIIi=:::;,::;
-          tVXRRRBBRXVYYYIti;::::,::::
-           YVYVYYYYYItti+=:,,,,,:::::;
-           YRVI+==;;;;;:,,,,,,,:::::::
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/art/4201
+UFP Communication Insignia
+               .
+              .:.
+             .:::.
+            .:::::.
+        ***.:::::::.***
+   *******.:::::::::.*******
+ ********.:::::::::::.********
+********.:::::::::::::.********
+*******.::::::'***`::::.*******
+******.::::'*********`::.******
+ ****.:::'*************`:.****
+   *.::'*****************`.*
+   .:'  ***************    .
